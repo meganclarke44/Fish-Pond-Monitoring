@@ -4,4 +4,5 @@ This project monitors an outdoor goldfish pond and alerts user if readings fall 
 <h2>Hardware</h2>
 <ul>
 <li>DS18B20 Waterproof Temperature Sensor</li>
+<li>ESP32 WiFi + Bluetooth Dual Core Microcontroller</li>
 </ul>
